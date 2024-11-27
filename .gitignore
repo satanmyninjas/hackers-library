@@ -1,0 +1,38 @@
+# Ignore OS-specific and backup files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore Obsidian's workspace configuration and cache files
+.obsidian/workspace
+.obsidian/cache
+
+# Ignore Obsidian plugin data (optional: include specific plugins if needed)
+.obsidian/plugins/
+!.obsidian/plugins/obsidian-git/
+
+# Ignore system and temporary files
+*.tmp
+*.log
+*.bak
+*.swp
+*.swo
+*.~*
+
+# Ignore export files
+*.pdf
+*.docx
+*.xlsx
+*.pptx
+
+# Ignore sync conflict files (if syncing with third-party services)
+*.conflicted*
+
+# Ignore node_modules and other development-related files (if applicable)
+node_modules/
+dist/
+build/
+
+# Ignore local testing or drafts folder (optional)
+Drafts/
+Test/
