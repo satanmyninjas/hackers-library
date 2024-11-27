@@ -1,45 +1,3 @@
-### Obsidian Template and File Directory Structure for HackTheBox Academy
-
-To organize your HackTheBox Academy notes and practice attack box sessions efficiently, here’s a directory structure and a structured template file.
-
----
-
-### **Directory Structure**
-
-```
-HackTheBox_Notes/
-│
-├── Academy_Courses/
-│   ├── [Course_Name_1]/
-│   │   ├── Notes.md
-│   │   ├── Challenges.md
-│   │   └── Screenshots/
-│   ├── [Course_Name_2]/
-│   │   ├── Notes.md
-│   │   ├── Challenges.md
-│   │   └── Screenshots/
-│   └── ... (additional courses)
-│
-├── Practice_Boxes/
-│   ├── [Box_Name_1]/
-│   │   ├── Enumeration.md
-│   │   ├── Exploitation.md
-│   │   ├── Post_Exploitation.md
-│   │   ├── Flags.md
-│   │   └── Screenshots/
-│   ├── [Box_Name_2]/
-│   │   ├── Enumeration.md
-│   │   ├── Exploitation.md
-│   │   ├── Post_Exploitation.md
-│   │   ├── Flags.md
-│   │   └── Screenshots/
-│   └── ... (additional boxes)
-│
-├── Tools_and_Commands.md
-├── Common_Vulnerabilities.md
-├── References.md
-└── README.md
-```
 
 ---
 
@@ -53,6 +11,7 @@ HackTheBox_Notes/
 - **Course Description:** [Brief description of the course]
 - **Skills Gained:** [Key skills or concepts learned]
 - **Prerequisites:** [Pre-required knowledge or courses]
+- **Tags:** 
 
 ## Notes
 - **Topics Covered:**
