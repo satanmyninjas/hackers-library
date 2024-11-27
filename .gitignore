@@ -5,7 +5,7 @@ desktop.ini
 
 # Ignore Obsidian's workspace configuration and cache files
 .obsidian/workspace
-.obsidian/cache
+.obsidian/
 *.json
 
 # Ignore Obsidian plugin data (optional: include specific plugins if needed)
